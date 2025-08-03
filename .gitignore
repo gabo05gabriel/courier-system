@@ -1,0 +1,11 @@
+# Node
+node_modules/
+.env
+*.log
+
+# Flutter (si lo agregas luego)
+build/
+.dart_tool/
+
+# Otros
+*.DS_Store
