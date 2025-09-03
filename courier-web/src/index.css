@@ -1,0 +1,14 @@
+/* Mantén lo que ya tengas y añade esto: */
+
+.login-art{
+  background-image:
+    linear-gradient( to bottom right, rgba(255,255,255,.15), rgba(255,255,255,.05) ),
+    url('https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=1600&auto=format&fit=crop');
+  background-size: cover;
+  background-position: center;
+}
+
+/* Input groups más redondeados (opcional) */
+.input-group .form-control,
+.input-group .input-group-text { border-radius: .6rem; }
+.btn-primary { border-radius: .6rem; }
